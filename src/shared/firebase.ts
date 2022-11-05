@@ -13,7 +13,7 @@ import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
   apiKey: "AIzaSyB-xHyqdiIn6tj5kedXhH6EMiVCtYttEig",
-  authDomain: "moonlight-films-ten.vercel.app",
+  authDomain: "movies-6fa81.firebaseapp.com",
   projectId: "movies-6fa81",
   storageBucket: "movies-6fa81.appspot.com",
   messagingSenderId: "343784841590",
